@@ -13,7 +13,7 @@ A beautifully designed, **fully responsive Admin Dashboard** built using **Flutt
 
 | Web View | Tablet View | Mobile View |
 |----------|-------------|-------------|
-| ![web](https://drive.google.com/file/d/1LPZwWHFlw_FAP_ALjMBOdiWTuvjj0sfp/view) | ![tablet](https://drive.google.com/file/d/1hlPXym29nkMtrIKutRywQa7qHyZIPGfd/view) | ![mobile](https://drive.google.com/uc?export=view&id=1hQScu0FduGNNE4lhfi6FHoVtVR_xag2w) |
+| ![web](https://drive.google.com/uc?export=view&id=1LPZwWHFlw_FAP_ALjMBOdiWTuvjj0sfp) | ![tablet](https://drive.google.com/uc?export=view&id=1hlPXym29nkMtrIKutRywQa7qHyZIPGfd) | ![mobile](https://drive.google.com/uc?export=view&id=1hQScu0FduGNNE4lhfi6FHoVtVR_xag2w) |
 
 ---
 
